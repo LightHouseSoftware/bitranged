@@ -1,0 +1,5 @@
+name "bitranged"
+description "Minimal implementation of the data structure for manipulating individual bits"
+authors "Oleg Bakharev"
+copyright "Copyright © 2023, Oleg Bakharev"
+license "ESL 1.0"
